@@ -527,6 +527,7 @@ RLeish
 - [Maitra Prajapati](https://github.com/maitra-prajapati)
 - [Anshik] (https://github.com/Anshikn)
 - [Ahmad Al-Manasrah](https://github.com/ahmad-almanasrah)
+- Aditya Gopal
 - Wangxiaohuide
 - [AntonioIonica](https://github.com/AntonioIonica)
 - [Anurag Banerjee](https://github.com/Banerjee2027)
